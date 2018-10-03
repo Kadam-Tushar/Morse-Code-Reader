@@ -9,6 +9,18 @@
 ### What is Morse Code ?
 Read This :https://en.wikipedia.org/wiki/Morse_code
 
+### Installation
+
+    Step 1:cd/Location
+
+    Step 2:Git clone "url" to location
+
+    Step 3:go to the dist folder
+
+    Step 4:To run the project from the command line
+
+    type=>java -jar "MorseCodenew.jar"
+
 ### Getting Started
 
 This project is written in JAVA using NetBeans IDE In these project user can log in or can create new account
